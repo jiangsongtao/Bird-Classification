@@ -4,4 +4,3 @@ streamlit
 torch
 torchvision
 matplotlib
-https://share.weiyun.com/XluhkMvW
