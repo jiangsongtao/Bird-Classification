@@ -269,5 +269,5 @@ if uploaded_file is not None:
         st.text(vals_try.item())
 
 
-
+1
 
